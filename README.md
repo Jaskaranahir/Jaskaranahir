@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaskaranahir
 - 👀 I’m interested in Coding,Web-Developing,Project Making.
-- 🌱 I’m currently learning Coding Languages.
-- 💞️ I’m looking to collaborate on Web-developing projects.
+- 🌱 I’m currently exploring Coding Languages, different Frameworks and libraries.
+- 💞️ I’m looking to collaborate on Web-developing projects, Software Development etc.
 - 📫 How to reach me - Email- jaskaranjattahir01@gmail.com
 
 <!---
